@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "price": 1499,
+      "description": "Appleの最新スマートフォン"
+    },
+    {
+      "id": 2,
+      "name": "Galaxy S24 Ultra",
+      "price": 1399,
+      "description": "Samsungのフラッグシップモデル"
+    },
+    {
+      "id": 3,
+      "name": "Pixel 8 Pro",
+      "price": 999,
+      "description": "Google製スマートフォン"
+    }
+  ]
+  
